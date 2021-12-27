@@ -29,7 +29,7 @@ This was then plotted with a marker layer map with pop-up markers for the cities
 
 <img width="1374" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/87828174/147497457-d0ee9d3d-92bb-4ca4-a69c-9e1964b4b6e2.png">
 
-# Deliverable 3
+## Deliverable 3
 In deliverable 3, 4 cities are chosen which represent a travel map for a user. Using the loc method, dataframes are created for each city on the travel map:
 
 1) Starting City
