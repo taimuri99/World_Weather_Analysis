@@ -1,5 +1,5 @@
 # World Weather Analysis
-Module 6: Jupyter Notebook & APIs - World Weather Analysis
+Module 6: World Weather Analysis using Jupyter Notebook & APIs.
 ## Deliverable 1
 
 For deliverable 1, we created a new set of 2000 latitudes and longitudes and using citipy module, found the nearest cities. We performed an API call with OpenWeatherMap to get weather data for these cities and added the required data:
